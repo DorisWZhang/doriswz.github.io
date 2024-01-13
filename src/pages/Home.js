@@ -4,10 +4,13 @@ import GitHubIcon from '@mui/icons-material/GitHub';
 import EmailIcon from '@mui/icons-material/Email';
 import "../styles/Home.css";
 import Typewriter from "typewriter-effect";
+import Resume from "../assets/My_Resume.pdf";
 
+function onResumeClick() {
+  window.open(Resume);
+}
 
 function Home() {
- 
   
   return (
     
@@ -51,7 +54,7 @@ function Home() {
               <a onClick={() => window.open('mailto:doriszhang912@gmail.com')}><EmailIcon/></a>
              </div>
              <a className="resume">
-                <button><span>Resume</span></button>
+                <button onClick={onResumeClick}><span>Resume</span></button>
             </a>
         </div>
        
