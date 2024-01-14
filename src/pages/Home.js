@@ -5,7 +5,8 @@ import EmailIcon from '@mui/icons-material/Email';
 import "../styles/Home.css";
 import Typewriter from "typewriter-effect";
 import Resume from "../assets/My_Resume.pdf";
- 
+
+//function for resume button
 function onResumeClick() {
   window.open(Resume);
 }
