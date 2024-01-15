@@ -10,7 +10,7 @@ import Resume from "../assets/My_Resume.pdf";
 function onResumeClick() {
   window.open(Resume);
 }
-//
+
 
 function Home() {
   
