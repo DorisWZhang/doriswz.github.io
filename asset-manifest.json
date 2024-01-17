@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/doriswz.github.io/static/css/main.a71d90a8.css",
+    "main.js": "/doriswz.github.io/static/js/main.169d7f24.js",
+    "static/js/787.6ca87805.chunk.js": "/doriswz.github.io/static/js/787.6ca87805.chunk.js",
+    "static/media/Headshot.jpg": "/doriswz.github.io/static/media/Headshot.a64ae81c2c45fc5f03c2.jpg",
+    "static/media/Mr.Monkey.png": "/doriswz.github.io/static/media/Mr.Monkey.3dba498f60b18211251d.png",
+    "static/media/My_Resume.pdf": "/doriswz.github.io/static/media/My_Resume.a4e8431ff6696bfb436b.pdf",
+    "index.html": "/doriswz.github.io/index.html",
+    "main.a71d90a8.css.map": "/doriswz.github.io/static/css/main.a71d90a8.css.map",
+    "main.169d7f24.js.map": "/doriswz.github.io/static/js/main.169d7f24.js.map",
+    "787.6ca87805.chunk.js.map": "/doriswz.github.io/static/js/787.6ca87805.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a71d90a8.css",
+    "static/js/main.169d7f24.js"
+  ]
+}
