@@ -1,0 +1,132 @@
+ .home{
+  background-color: #ADD8E6;
+ }
+ 
+ .about { 
+    width: auto;
+    height: calc(100vh - 25vh);
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    align-items: left;
+    text-align: left;
+    background-color: #ADD8E6;
+    color: #f0f0f0;
+    margin-left:7%;
+    font-family: "Trebuchet MS", Verdana, sans-serif
+  }
+
+  .about .intro {
+    font-family: "Trebuchet MS", Verdana, sans-serif; 
+    font-weight: bold;  
+    font-size: 35px;
+    color: white;
+    vertical-align: text-bottom;
+    height: 0px;
+    margin-top: 150px;
+  }
+
+  .about .name{
+    font-family: "Trebuchet MS", Verdana, sans-serif;
+    font-size: 90px;
+    height: 0px;
+    margin-top: 10px;
+    margin-bottom:45px;
+    color:white;
+    font-weight: bold;
+  }
+
+  .about .prompt{
+    margin-top: 20px;
+    font-size: 50px;
+    margin-bottom: 0px;
+    color:white;
+  }
+
+.about .socialMedia{
+
+    color:white;
+    margin-left: 20px;
+    
+}
+
+.resume{ 
+  align-content: top;
+  padding-bottom: 10px;
+  margin-top: -77px;
+  margin-left: 21%;
+
+}
+
+
+.resume button{
+  font-weight: bold;
+  border: 3px solid white;
+  background-color: lightblue;
+  font-size: 45px;
+  border-color: white;
+  color: white;
+  cursor: pointer;
+  border-radius: 12px 12px 12px 12px;
+  transition-duration: 0.5s;
+  padding-left: 35px;
+  padding-right: 0px;
+}
+
+
+.resume button:after{
+  content: '\00bb';
+  font-size: 50px;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+  padding-right: 0px;
+  
+}
+
+.resume button:hover{
+  padding-right: 20px;
+  padding-left: -20px;
+
+}
+
+.resume button:hover::after{
+  opacity: 1;
+  right: 0;
+
+}
+
+
+  
+  .social-media svg {
+    margin-top: 0px;
+    color: white;
+    margin: 20px;
+    font-size: 50px;
+    cursor: pointer;
+  }
+
+  @media only screen and (max-width: 600px) {
+    .about h2 {
+      font-size: 40px;
+    }
+  
+    .about .prompt {
+      margin-top: 10px;
+      font-size: 20px;
+      width: 80%;
+    }
+      .skills {
+      text-align: center;
+    }
+    .list {
+      padding: 0;
+    }
+  
+    .skills h2 {
+      font-size: 30px;
+    }
+
+  }
+
