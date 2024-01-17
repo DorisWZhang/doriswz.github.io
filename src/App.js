@@ -17,6 +17,7 @@ function App() {
           <Route path="/projects" element={<Projects />}/>
           <Route path="/project/:id" element={<ProjectDisplay/>}/>
         </Routes>
+        
         <Footer/>
       </Router>
     </div>
