@@ -1,5 +1,5 @@
 import MrMonkey from "../assets/Mr.Monkey.png";
-import ReadBuddy from  "../assets/ReadBuddy.png";
+import ReadBuddy from "../assets/ReadBuddy.png";
 
 export const ProjectList = [
     {

@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "homepage": "https://doriswzhang.github.io/doriswz.github.io/",
+=======
+  "homepage":"https://doriswzhang.github.io/doriswz.github.io/",
+>>>>>>> ae60a6aa124672f95b2c081c6218736088579b56
   "name": "doriswz.github.io",
   "version": "0.1.0",
   "private": false,
@@ -15,7 +19,11 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.21.1",
+<<<<<<< HEAD
     "react-scripts": "^5.0.1",
+=======
+    "react-scripts": "5.0.1",
+>>>>>>> ae60a6aa124672f95b2c081c6218736088579b56
     "typewriter-effect": "^2.21.0",
     "web-vitals": "^2.1.4"
   },

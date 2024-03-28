@@ -12,12 +12,19 @@ function App() {
       <Router basename="/doriswz.github.io">
         <Navbar/> 
         <Routes> 
+<<<<<<< HEAD
+=======
+   
+>>>>>>> ae60a6aa124672f95b2c081c6218736088579b56
           <Route path="/" element={<Home />}/>
           <Route path="/aboutme" element={<AboutMe/>}/>
           <Route path="/projects" element={<Projects />}/>
           <Route path="/project/:id" element={<ProjectDisplay/>}/>
         </Routes>
+<<<<<<< HEAD
         
+=======
+>>>>>>> ae60a6aa124672f95b2c081c6218736088579b56
         <Footer/>
       </Router>
     </div>

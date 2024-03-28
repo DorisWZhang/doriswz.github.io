@@ -22,9 +22,17 @@ function Home() {
             <p className="intro">Hi! My Name is </p>
             <p className="name"><b>Doris Zhang</b></p>
             <div className="prompt"> 
+<<<<<<< HEAD
                 <p>   
                     <Typewriter 
                 onInit={(typewriter) => {
+=======
+                <p>
+                
+                    <Typewriter 
+                onInit={(typewriter) => {
+                  
+>>>>>>> ae60a6aa124672f95b2c081c6218736088579b56
                     typewriter
                     .changeDelay(100)
                     .typeString("I am a ")
