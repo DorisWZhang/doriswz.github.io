@@ -1,7 +1,7 @@
 import React from 'react'
 import Headshot from "../assets/Headshot.jpg";
 import "../styles/AboutMe.css"
-import Resume from "../assets/My_Resume.pdf";
+import Resume from "../assets/Zhang_Doris_Resume.pdf";
 
 
 

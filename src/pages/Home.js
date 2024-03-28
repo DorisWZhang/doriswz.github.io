@@ -4,7 +4,7 @@ import GitHubIcon from '@mui/icons-material/GitHub';
 import EmailIcon from '@mui/icons-material/Email';
 import "../styles/Home.css";
 import Typewriter from "typewriter-effect";
-import Resume from "../assets/My_Resume.pdf";
+import Resume from "../assets/Zhang_Doris_Resume.pdf";
 
 //function for resume button
 function onResumeClick() {
